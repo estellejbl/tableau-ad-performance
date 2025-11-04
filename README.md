@@ -93,4 +93,4 @@ Interactive filters such as interaction type, date range, and interest categorie
 
 - Videos show higher performance at the end of the funnel and should be tested more in retargeting campaigns
 
-### ▶️ Watch the video of the dashboard [View the demo video](media/demo.mp4)
+### ▶️ Watch the video of the dashboard [View the demo video](https://drive.google.com/file/d/1AEF1CMOqHP5WQHTHYbZTj3geTsT3MKSi/view?usp=drive_link)
